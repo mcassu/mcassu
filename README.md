@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on iOS Apps;
 - 🌱 I’m currently learning React Native;
 - 🤔 I’m looking for help with Swift;
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/marcelocassu/"> <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
+- 📫 How to reach me: [Marcelo Cassu](https://www.linkedin.com/in/marcelocassu/); 
 
 <img align="right" src="/undraw_developer_activity_bv83.svg" width="500" height="320"/>
 
@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝[Resume](Link)
 -->
 
