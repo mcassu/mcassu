@@ -1,7 +1,10 @@
-**Hi** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marcelo Cassu <img height="30" src="/undraw_coding_6mjf.svg">, a self-taught Mobile Developer 🔬 from Brasil.
+**Hi** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marcelo Cassu, a self-taught Mobile Developer <img height="30" src="/undraw_coding_6mjf.svg"> from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>.
 
 
 <img align="right" src="/undraw_developer_activity_bv83.svg" width="500" height="320"/>
+
+
+
 
 **Languages and Tools:**  
 
