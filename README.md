@@ -3,8 +3,8 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on iOS Apps;
-- 🌱 I’m currently learning React Native;
-- 🤔 I’m looking for help with Swift;
+- 🌱 I’m currently learning Flutter/SwiftUI;
+- 🤔 I’m looking for help with SwiftUI;
 - 📫 How to reach me: [Marcelo Cassu](https://www.linkedin.com/in/marcelocassu/); 
 
 <img align="right" src="/undraw_developer_activity_bv83.svg" width="500" height="320"/>
